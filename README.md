@@ -18,4 +18,4 @@
 
 ###  <span style="color:blue">ETC</span>
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img src="https://camo.githubusercontent.com/0fc3ee196a74d0daf5db65f74ef9198c0e5e537c9514cc4644c31e79cb5fcba7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d626c61636b"> [![Medium](https://img.shields.io/badge/Tech%20Medium-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white)](https://medium.com/@bluemingsqure)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img src="https://camo.githubusercontent.com/0fc3ee196a74d0daf5db65f74ef9198c0e5e537c9514cc4644c31e79cb5fcba7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d626c61636b"> [![Medium](https://img.shields.io/badge/Tech%20Medium-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white)](https://medium.com/@bluemingsqure)
