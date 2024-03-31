@@ -1,10 +1,13 @@
-## 🧑🏻‍💻About me 
+## 🧑🏻‍💻 Who am I?
+- I'm working on a personal project using Spring Boot and JPA!
+- I aim to review what I learned today on my tech blog at least once a week!
+- While I'm not particularly outgoing, I find it easy to gather for work!
+- I crave learning something new! It makes my heart beat faster!
 
-<a href="mailto:moon49051130@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:moon49051130@gmail.com"/></a>
+📚 Come visit my blog! >>>>>>>>>> [![Medium](https://img.shields.io/badge/Tech%20Medium-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white)](https://medium.com/@bluemingsqure)
 
-- 새로운 것을 배우기 좋아하는 개발자 입니다!
-- 꼼꼼한 테스트와 다양한 테스트 케이스로 사용자 친화적인 서비스를 고민합니다.
-- TDD, DDD 개발을 지향합니다.
+💌 If you want to connect me!? >>>> <a href="mailto:moon49051130@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:moon49051130@gmail.com"/></a>
+
 
 <br/>
 
@@ -16,5 +19,4 @@
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
-[![Medium](https://img.shields.io/badge/Tech%20Medium-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white)](https://medium.com/@bluemingsqure)
 
