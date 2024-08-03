@@ -18,6 +18,8 @@
 
 <br/>
 
-## 💟 to be continue...
+## 💟 Github Activities
+
+![hee's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonheejae&show_icons=true&theme=dracula)
 
 
